@@ -43,12 +43,7 @@ Designed using Windows Presentation Foundation (WPF).\
 Written in C#, with .NET Framework 4.8, you can use any build architecture.\
 I apologize for the uncommented code. If you have any questions, you can contact me via my Discord Server.
 
-## How to Build?
-To edit the Forms, first compile. For any reason, forms can't load if not compiled. If you opened the forms before compiling, restart Visual Studio, and your problem should be fixed.
-- Clone the repository :  `gh repo clone LExteamz/LInjector`
-- Open LInjector.sln in Visual Studio 2022.
-- Set Release x86
-- Build Solution (CTRL + SHIFT + B)
+
 
 ## Why LInjector?
 Well, here are some reasons:
