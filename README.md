@@ -44,7 +44,6 @@ Written in C#, with .NET Framework 4.8, you can use any build architecture.\
 I apologize for the uncommented code. If you have any questions, you can contact me via my Discord Server.
 
 
-
 ## Why LInjector?
 Well, here are some reasons:
 - It's an open-source project, which ensures the program does not contain malware.
